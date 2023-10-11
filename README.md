@@ -4,7 +4,7 @@ PyMOL Python snippet library to edit live Jupyter notebook cells with Vim or Neo
 
 ## Installation
 
-
+Move the pymolpy.snippets file to `~/.vim/my-snippets/snipmate/.` or where ever you store your snipmate snippets. 
 
 
 
