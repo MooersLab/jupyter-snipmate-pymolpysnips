@@ -2,7 +2,7 @@
 
 PyMOL Python snippet library to edit live Jupyter notebook cells with Vim or NeoVim using the snipmate plugin, the browser plugin GhostText, and the ghost-text.vim plugin.
 
-# Installation
+## Installation
 
 
 
